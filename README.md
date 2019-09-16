@@ -1,4 +1,7 @@
 # detect-object
+## 基础知识
+1. stereo vision
+    - [双目立体视觉](https://wenku.baidu.com/view/08f86102e518964bcf847c6c.html)
 ## 目标检测开源项目
 1.  bgslibrary
     - A C++ Background Subtraction Library with wrappers for Python, MATLAB, Java and GUI on QT
